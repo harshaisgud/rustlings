@@ -1,5 +1,5 @@
 #!/usr/bin/env pwsh
-
+repos
 #Requires -Version 5
 param($path = "$pwd/rustlings")
 
